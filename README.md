@@ -16,7 +16,7 @@
 ## Solar System
 
 1. Sorting Solar System: (Not at liberty to post copyrighted content)
-2. [Solar System Presentation](The%20Solar%20System.pptx)
+2. [Solar System Presentation](The%20Solar%20System.pdf)
 3. [Solar System & Moon Phases Homework](Moon%20Phases%20and%20Solar%20System%20Homework.docx)
 
 ## Stars, Galaxies, The Universe
