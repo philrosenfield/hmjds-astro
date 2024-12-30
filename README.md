@@ -21,5 +21,5 @@
 
 ## Stars, Galaxies, The Universe
 
-1. [Stars, Galaxies, The Universe Presentation](StarsGalaxiesUniverse.pptx)
+1. [Stars, Galaxies, The Universe Presentation](Stars%20Galaxies%20Universe%20Presentation.pptx)
 2. Practice Exam (coming soon)
