@@ -1,5 +1,3 @@
-# HMJDS 8th Grade Astronomy Unit
-
 [Astronomy Readings](Astronomy%20Readings.docx)
 
 ## Seasons
